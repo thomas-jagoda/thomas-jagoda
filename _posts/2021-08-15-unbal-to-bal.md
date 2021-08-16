@@ -8,6 +8,8 @@ tags:
   - schematic
 ---
 
+Here are a couple of circuits I've designed to convert an unbalanced signal into a balanced one.
+
 ## V1
 
 A friend of mine asked me to make it possible to connect his guitar, bass and unbalanced whatnot to his new preamp/compressor that only has balanced inputs. So, here it is. Very simple stuff, no phase compensation. Ground can be connected or not to the XLR plug (leave unconnected for "ground lift").
