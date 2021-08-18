@@ -18,7 +18,7 @@ Here you'll find a comprehensive list of articles and circuits I've written/desi
 -   [Phaser](/circuits/phaser/)
 -   [Tremolo](/circuits/tremolo/)
 -   [Envelope Filter](/circuits/envelope/)
--   [Ring Modulator](/circuits/ring_mod/)
+-   [Ring Modulator](/circuits/ring-mod/)
 -   [BJT Booster](/circuits/bjt-booster/)
 -   [Booster/Buffer](/circuits/booster-buffer/)
 -   [Wien Bridge Oscillator](/circuits/wien/)
