@@ -56,7 +56,7 @@ I work with school and University pupils. Subjects include: Mathematics (school 
 
 ## Music
 
-While playing keyboards, I have had the pleasure of working with a lot of wonderful artists such as: Jorge Mautner, Kassin, Stéphane San Juan, Alberto Continentino, Domênico, Bruno Cosentino, Matheus Torreão, Mari Romano, Luiza Brina, Ana Frango Elétrico, Mãeana & Bem Gil, Abayomi, Zabelê, Chay Suede, Gustavo Benjão and others. You can check some recordings below.
+While playing keyboards, I have had the pleasure of working with a lot of wonderful artists such as: Jorge Mautner, Kassin, Stéphane San Juan, Alberto Continentino, Domênico, Bruno Cosentino, Diogo Strausz, Jacob Perlmutter, Jonas Sá, Matheus Torreão, Mari Romano, Luiza Brina, Ana Frango Elétrico, Mãeana & Bem Gil, Abayomi, Zabelê, Chay Suede, Evandro Mesquita, Pedro Luís, Péricles Cavalcanti, Antônio Saraiva and, in one opportunity, Caetano Veloso. You can check some recordings below.
 
 **Matheus Torreão**:
 {% include video id="YNmVe-te1Og" provider="youtube" %}
@@ -66,6 +66,9 @@ While playing keyboards, I have had the pleasure of working with a lot of wonder
 
 **Mari Romano**:
 {% include video id="GSR4eWzZTiU" provider="youtube" %}
+
+**Jacob Perlmutter & Diogo Strausz**
+{% include video id="TezRvscDHtc" provider="youtube" %}
 
 **Pedro Fonte**:
 {% include video id="2VCkUXIC154" provider="youtube" %}
