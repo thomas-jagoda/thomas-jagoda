@@ -12,6 +12,7 @@ Here you'll find a comprehensive list of articles and circuits I've written/desi
 
 -   [Log Pots For All](/articles/log-pots/) - an interactive tool for building your own log and anti-log pots using linear pots and
     loading resistors.
+-   [Add Libraries To OrCad Capture](/articles/pspice-lib/) - having trouble installing or simulating `pspice` libraries? Maybe this will help.
 
 ## Circuits I've Designed and Built
 
