@@ -6,6 +6,7 @@ categories:
 tags:
   - circuits
   - spice
+  - orcad
 ---
 
 

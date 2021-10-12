@@ -6,7 +6,7 @@ toc_sticky: true
 author_profile: true
 ---
 
-Here you'll find a comprehensive list of articles and circuits I've written/designed.
+Here you'll find a comprehensive list of articles I've written, circuits designed and maybe some other stuff.
 
 ## Articles
 
@@ -24,6 +24,9 @@ Here you'll find a comprehensive list of articles and circuits I've written/desi
 -   [Booster/Buffer](/circuits/booster-buffer/)
 -   [Wien Bridge Oscillator](/circuits/wien/)
 -   [Unbalanced to Balanced converters](/circuits/unbal-to-bal/)
+
+## Miscellaneous Circuits
+- [Chico Fuzz](/circuits/chico-fuzz)
 
 ## Circuits I've Designed and Simulated (not built yet)
 
