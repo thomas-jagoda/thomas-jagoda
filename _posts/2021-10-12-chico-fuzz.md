@@ -1,7 +1,6 @@
 ---
 title: "Chico Fuzz"
 date: 2021-10-12
-classes: wide
 categories:
   - circuits
 tags:
